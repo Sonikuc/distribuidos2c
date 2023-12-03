@@ -6,8 +6,8 @@ metadata:
     description: >-
       Platilla de despliegue para distribuidos2c
     tags: "nodejs"
-    openshift.io/documentation-url: "https://github.com/Sonikuc/distribuidos-3b"
-    openshift.io/suport-url: "https://github.com/Sonikuc/distribuidos-3b"
+    openshift.io/documentation-url: "https://github.com/Sonikuc/distribuidos2c"
+    openshift.io/suport-url: "https://github.com/Sonikuc/distribuidos2c"
 
 parameters:
   - name: APP_NAME
