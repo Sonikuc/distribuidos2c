@@ -178,7 +178,7 @@ objects:
             name: "${APP_NAME}-appserver"
         spec:
           containers:
-          - image: 'sonikuc/distribuidos-3b'
+          - image: 'sonikuc/distribuidos2c'
             imagePullPolicy: Always
             name: appserver
             args:
